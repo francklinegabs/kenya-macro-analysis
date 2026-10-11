@@ -1,0 +1,8 @@
+,GDP growth,Inflation,KES depreciation,Lending rate,Remittances,Trade balance,Agriculture share
+GDP growth,1.0,0.026,-0.15,-0.455,0.293,-0.055,-0.345
+Inflation,0.026,1.0,0.006,-0.051,-0.18,-0.187,0.086
+KES depreciation,-0.15,0.006,1.0,-0.175,0.108,-0.032,-0.115
+Lending rate,-0.455,-0.051,-0.175,1.0,-0.581,-0.275,-0.018
+Remittances,0.293,-0.18,0.108,-0.581,1.0,0.29,0.096
+Trade balance,-0.055,-0.187,-0.032,-0.275,0.29,1.0,0.531
+Agriculture share,-0.345,0.086,-0.115,-0.018,0.096,0.531,1.0

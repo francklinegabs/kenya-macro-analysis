@@ -1,0 +1,6 @@
+country,mean_pct,median_pct,std_pct,years_above_10pct,max_pct,max_year,latest_pct
+Tanzania,6.33,5.32,3.24,4,16.0,2012,3.06
+Uganda,5.96,5.21,4.04,4,16.56,2011,3.32
+Kenya,8.45,7.66,4.78,5,26.24,2008,4.49
+Rwanda,7.02,7.17,5.6,6,19.79,2023,1.77
+Ethiopia,14.83,12.3,12.11,14,44.36,2008,21.04
